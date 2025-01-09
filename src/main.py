@@ -1,5 +1,4 @@
 import os
-import json
 from openai import OpenAI
 from openai import AssistantEventHandler
 from typing_extensions import override
